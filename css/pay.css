@@ -1,0 +1,132 @@
+*{
+	margin:0;
+	padding:0;
+}
+	/*内容*/
+#contentCon{
+	width:1200px;
+	margin:auto;
+	margin-top:40px;
+	}
+#contentCon>div{
+	overflow:hidden;
+	}
+#contentCon>div>span{
+	float:left;
+	}
+#contentCon>div>span>h2{
+	font-size:24px;
+	color:#4c4c4c;
+	font-weight:bold;
+	}
+#contentCon>div>span>p{
+	font-size:18px;
+	color:#4c4c4c;
+	margin-top:10px;
+	}
+#contentCon>div>ol{
+	float:right;
+	overflow:hidden;
+	margin-top:10px;
+	}
+#contentCon>div>ol>p{
+	font-size:24px;
+	color:#4c4c4c;
+	float:left;
+	}
+#contentCon>div>ol>span{
+	float:left;
+	font-size:24px;
+	color:#fb0000;
+	}
+#contentCon>ul{
+	margin-top:40px;
+	width:1200px;
+	height:320px;
+	border-top:1px solid #d2d2d2;
+	overflow:hidden;
+	}
+#contentCon>ul>li{
+	float:left;
+	overflow:hidden;
+	}
+#contentCon>ul>.box01{
+	margin-top:18px;
+	margin-left:40px;
+	overflow:hidden;
+	}
+#contentCon>ul>.box02{
+	margin-top:50px;
+	margin-left:170px;
+	}
+#contentCon>ul>li>input{
+	float:left;
+	width:16px;
+	height:16px;
+	margin-top:22px;
+	}
+#contentCon>ul>li>i{
+	float:left;
+	width:71px;
+	height:71px;
+	margin-left:24px;
+	}
+#contentCon>ul>li>.pic02{
+	width:78px;
+	height:69px;
+	}
+#contentCon>ul>li>div{
+	float:left;
+	width:260px;
+	height:260px;
+	border:1px solid #d2d2d2;
+	background:url(../img/erweima_03.png) center no-repeat;
+	}
+#contentCon>ul>li>span{
+	float:left;
+	width:507px;
+	height:167px;
+	background:url(../img/box_03.jpg) center no-repeat;
+	margin-top:48px;
+	text-align:center;
+	}
+#contentCon>ul>li>span>p{
+	font-size:24px;
+	color:#4c4c4c;
+	margin-top:50px;
+	}
+#contentCon>ul>li>span>.text02{
+	margin-top:20px;
+	}
+#contentCon>ol{
+	width:1200px;
+	height:320px;
+	border-top:1px solid #d2d2d2;
+	margin-top:40px;
+	}
+#contentCon>ol>li{
+	overflow:hidden;
+	margin-top:50px;
+	margin-left:40px;
+	}
+#contentCon>ol>li>input{
+	float:left;
+	width:16px;
+	height:16px;
+	margin-top:22px;
+	}
+#contentCon>ol>li>i{
+	float:left;
+	width:89px;
+	height:57px;
+	margin-left:24px;
+	}
+#contentCon>ol>.box03{
+	margin-top:30px;
+	}
+#contentCon>ol>.box03>#logo01{
+	margin:0 100px;
+	}
+#contentCon>ol>li>#logo02{
+	margin:0 70px;
+	}
